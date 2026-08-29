@@ -16,6 +16,6 @@ The process to start using this service is simple:
 - Connect your USU for society-based information (optional).
 - Add your preferences and customise your profile (users can choose which information is public and private).
 
-Future goals for Uni-Fied will be to implement itself as a user-friendly app for enhanced accessability.
+Future goals for Uni-Fied will be to implement itself as a user-friendly app for enhanced accessibility.
 
 
